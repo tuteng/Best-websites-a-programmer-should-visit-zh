@@ -175,7 +175,7 @@
   * [kimberli/interviews](https://github.com/kimberli/interviews) : 面试学习表格
   * [确定不同循环的时间复杂度?](http://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) :在stackoverflow上的一些好问题包括计算时间复杂度.
   * [ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis) : 在面试期间问到对公司的了解的问题
-  * [SQL interview questions](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/) : SQL面试问题 好的SQL测试
+  * [SQL面试问题](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/) : 好的SQL测试
 
 <h1 id='documentaries'>纪录片</h1>
 
