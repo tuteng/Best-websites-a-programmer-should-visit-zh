@@ -4,6 +4,7 @@
     <br>
 </h1>
 
+
 # 程序员应该访问的最佳网站中文版[原版](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 一些对程序员有用的网站
@@ -268,7 +269,7 @@
 
   * [Computerphile ](https://www.youtube.com/user/Computerphile/videos) : 每个CS学生都应该看
   * [ComputerHistory ](https://www.youtube.com/user/ComputerHistory/videos) : 针对那些想知道如何达成目标的人
-  * [GoogleTechTalks ](https://www.youtube.com/user/GoogleTechTalks/videos) : 关于热门话题的视频喝在技术界的一些趣事
+  * [GoogleTechTalks ](https://www.youtube.com/user/GoogleTechTalks/videos) : 关于热门话题的视频和在技术界的一些趣事
   * [Placement Grid ](https://www.youtube.com/user/PlacementGrid/videos) : 面试几校园实习经验
   * [Google Developers ](https://www.youtube.com/user/GoogleDevelopers/videos)
   * [Facebook Developers ](https://www.youtube.com/user/FacebookDevelopers/videos)
