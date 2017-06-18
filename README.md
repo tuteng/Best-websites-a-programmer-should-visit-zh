@@ -116,7 +116,7 @@
 
 <h1 id='general-tools'>通用工具</h1>
 
-<h2 id='interview-preparation'>面试准准备</h2>
+<h2 id='interview-preparation'>面试准备</h2>
 
   * [GeeksforGeeks | 针对geek的计算机科学入门](http://www.geeksforgeeks.org/) : 订阅他们获取新文章
   * [一个技术面试题，逻辑题等的站点](http://www.techinterview.org/) : 各种让你思考的东西
