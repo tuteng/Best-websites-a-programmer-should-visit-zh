@@ -260,7 +260,7 @@
   * [在会议上讨论的实用技巧](https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/)
   * [向非程序员展示软件项目](https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/)
 
-<h1 id='everything-in-one-place'>一切东西</h1>
+<h1 id='everything-in-one-place'>Reddit知识汇总</h1>
 
   * [reddit.com/user/ashish2199/m/cs_student_subs](https://www.reddit.com/user/ashish2199/m/cs_student_subs) : 在reddits中计算机科学和编程相关的主题
 
