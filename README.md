@@ -270,7 +270,7 @@
   * [Computerphile ](https://www.youtube.com/user/Computerphile/videos) : 每个CS学生都应该看
   * [ComputerHistory ](https://www.youtube.com/user/ComputerHistory/videos) : 针对那些想知道如何达成目标的人
   * [GoogleTechTalks ](https://www.youtube.com/user/GoogleTechTalks/videos) : 关于热门话题的视频和在技术界的一些趣事
-  * [Placement Grid ](https://www.youtube.com/user/PlacementGrid/videos) : 面试几校园实习经验
+  * [Placement Grid ](https://www.youtube.com/user/PlacementGrid/videos) : 面试及校园实习经验
   * [Google Developers ](https://www.youtube.com/user/GoogleDevelopers/videos)
   * [Facebook Developers ](https://www.youtube.com/user/FacebookDevelopers/videos)
   * [O'Reilly ](https://www.youtube.com/user/OreillyMedia/videos) : 世界最佳技术作家访谈录
@@ -278,14 +278,14 @@
   * [JavaOne ](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos) : java会议
   * [CppCon ](https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd) : C++会议
   * [Meeting C++ YT Kanalseite ](https://www.youtube.com/user/MeetingCPP/videos) : C++会议
-  * [ThinMatrix ](https://www.youtube.com/user/ThinMatrix/videos) : 开发者在java中使用OpenGL制作的一个3D游戏的博客喝指南
+  * [ThinMatrix ](https://www.youtube.com/user/ThinMatrix/videos) : 开发者在java中使用OpenGL制作的一个3D游戏的博客和指南
   * [yegor256 ](https://www.youtube.com/user/technoparkcorp/videos)
   * [Scott Meyers: Past Talks ](http://www.aristeia.com/presentations.html)
   * [thoughtbot  ](https://www.youtube.com/user/ThoughtbotVideo/videos) : 谈论各种话题
   * [code::dive conference](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g) : 诺基亚技术中心组织的会议
   * [HowToBecomeTV ](https://www.youtube.com/user/HowToBecomeTV/videos) : 与技术界相关的开发人员的好的面试
   * [ITCuties ](https://www.youtube.com/user/itcuties/videos)
-  * [CodeBabes](https://www.youtube.com/user/CodeBabes/videos) : 针对那些认为Cs缺乏魅力的人
+  * [CodeBabes](https://www.youtube.com/user/CodeBabes/videos) : 针对那些认为CS缺乏魅力的人
   * [Coding Blocks](https://www.youtube.com/CodingBlocks) : 指南，技巧
 
 <h1 id='good-articles'>好文章</h1>
