@@ -13,7 +13,9 @@
 
 
 <h3>Index</h3>
+
 索引   
+
 - [当你遇到问题时](#when-you-get-stuck)  
 - [新闻篇](#news)  
 - [针对新手的代码训练](#coding-practice-for-beginners)  
