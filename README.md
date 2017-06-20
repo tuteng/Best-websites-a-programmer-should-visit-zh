@@ -30,7 +30,7 @@
 * [AI学习](#learn-ai)
 * [研讨会、研究性写作、会谈等](#seminar--research-writing--talks-etc)
 * [Reddit知识汇总](#everything-in-one-place)
-* [youtube频道](#youtube-channels)
+* [Youtube频道](#youtube-channels)
 * [好文章](#good-articles)
 * [播客](#podcasts)
 * [构建一个简单的编译器/解释器](#building-a-simple-compilerinterpreter)
@@ -103,16 +103,16 @@
 
 <h1 id='coding-style'>编码风格</h1>
 
-   * [CS 106B编码风格指南](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : 代码臃肿者必看  
-   * [google C++编码风格](https://google.github.io/styleguide/cppguide.html)  
-   * [Airbnb js风格指南](https://github.com/airbnb/javascript) : 写javascript最好的方式  
+   * [CS 106B 编码风格指南](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : 代码臃肿者必看  
+   * [google C++ 编码风格](https://google.github.io/styleguide/cppguide.html)  
+   * [Airbnb JS 风格指南](https://github.com/airbnb/javascript) : 写JavaScript最好的方式  
    * [建议初学者避免使用的坏的编码习惯?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/)  
-   * [优秀的 C编码习惯 • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/)  
+   * [优秀的 C 编码习惯 • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/)  
    * [怎样高效的报告Bug](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html)  
    * [调试问题](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html)  
    * [你需要更好的代码!](http://codebetter.com/)  
    * [在线CS课程目录](https://github.com/open-source-society/computer-science)  
-   * [CS课程目录 (许多在线讲座)](https://github.com/prakhar1989/awesome-courses)  
+   * [CS课程目录(许多在线讲座)](https://github.com/prakhar1989/awesome-courses)  
 
 <h1 id='general-tools'>通用工具</h1>
 
@@ -152,8 +152,8 @@
   * [让你的简历改头换面](http://www.lifeclever.com/give-your-resume-a-face-lift/)
   * [大家的误解](http://ssp.impulsetrain.com/big-o.html)
   * [位操作技巧](https://gist.github.com/dideler/2365607)
-  * [java核心面试问题 - 每个主题的面试题 ](http://javahonk.com/core-java-interview-questions/)
-  * [java面试问题与答案](http://adnjavainterview.blogspot.in)
+  * [Java核心面试问题 - 每个主题的面试题 ](http://javahonk.com/core-java-interview-questions/)
+  * [Java面试问题与答案](http://adnjavainterview.blogspot.in)
   * [面试准备时的链接的汇总 • /r/cscareerquestions ](https://www.reddit.com/r/cscareerquestions/comments/2lzc4h/big_collection_of_interview_preparation_links/)
   * [为求职者和雇主提供的建议](https://www.reddit.com/r/india/comments/1clgdj/unsolicited_advice_for_job_seekers_and_employers/)
   * [5个基本的电话面试问题 - steveyegge2 ](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
@@ -216,26 +216,26 @@
   * [计算机科学资源 ](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : 针对自学者的mooc列表
   * [https://github.com/prakhar1989/awesome-courses/blob/master/README.md ](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : 网上CS课程的收集
 
-<h1 id='sites-related-to-your-preferred-programming-language-for-me-java'>与你首选的编程语言的站点(对我来说是java)</h1>
+<h1 id='sites-related-to-your-preferred-programming-language-for-me-java'>与你偏爱的编程语言相关的网站(对我来说是Java)</h1>
 
-  * [java的过去](http://javarevisited.blogspot.in/) : 学好java准备面试
-  * [The Java™ Tutorials  ](https://docs.oracle.com/javase/tutorial/): 最好的java手册
+  * [Java的过去](http://javarevisited.blogspot.in/) : 学好Java准备面试
+  * [The Java™ Tutorials  ](https://docs.oracle.com/javase/tutorial/) : 最好的Java手册
   * [Java Corner at Artima.com ](http://www.artima.com/java/index.html)
   * [Java Visualizer ](http://www.cs.princeton.edu/~cos126/java_visualize/) : 帮助将引用，值，变量可视化
   * [Java课程笔记 ](http://www.cafeaulait.org/course/)
-  * [Learning Java ](http://chimera.labs.oreilly.com/books/1234000001805/index.html) :   个免费的在线学习Java语言的教材
+  * [Learning Java ](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : 一个免费的在线学习Java语言的教材
   * [免费在线的章节用来学习java虚拟机](http://www.artima.com/insidejvm/ed2/index.html)
   * [理解JVM](http://www.cubrid.org/blog/dev-platform/understanding-jvm-internals/)
   * [垃圾搜集如何工作](http://www.dynatrace.com/en/javabook/how-garbage-collection-works.html)  
   * [Welcome to JavaWorld.com ](http://www.javaworld.com/)
   * [Java内存模型](http://www.cs.umd.edu/~pugh/java/memoryModel/)
-  * [Netbeans的键盘快捷键](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) :   键盘快捷键能够使你在工作时提高生产力
+  * [Netbeans的键盘快捷键](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : 键盘快捷键能够使你在工作时提高生产力
   * [XyzWs Java FAQs ](http://www.xyzws.com/javafaq/page/1) : Java面试题汇总
   * [搜索开源的Java API ](http://www.docjar.com/) : 浏览Java库的源代码，并且学习如何实现
   * [JournalDev - Java, Java EE, Android, Web Development Tutorials](http://www.journaldev.com/)  
   * [算法、数据结构、面试问题和答案的实现 ](https://github.com/sherxon/AlgoDS)
   * [垃圾回收是什么](https://plumbr.eu/handbook/what-is-garbage-collection) : 动态垃圾搜集
-  * [学习java的最好的书](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html):   Java基础
+  * [学习java的最好的书](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html) : Java基础
   * [垃圾搜集(Java); 扩展数据结构 (视频)](https://www.youtube.com/watch?v=StdfeXaKGEc&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=25)
   * [编译器(视频)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
   * [深入Java：垃圾回收!](https://www.infoq.com/presentations/garbage-collection-benefits)
@@ -274,8 +274,8 @@
   * [Google Developers ](https://www.youtube.com/user/GoogleDevelopers/videos)
   * [Facebook Developers ](https://www.youtube.com/user/FacebookDevelopers/videos)
   * [O'Reilly ](https://www.youtube.com/user/OreillyMedia/videos) : 世界最佳技术作家访谈录
-  * [Java ](https://www.youtube.com/user/java/videos) : 有关java的会谈
-  * [JavaOne ](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos) : java会议
+  * [Java ](https://www.youtube.com/user/java/videos) : 有关Java的会谈
+  * [JavaOne ](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos) : Java会议
   * [CppCon ](https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd) : C++会议
   * [Meeting C++ YT Kanalseite ](https://www.youtube.com/user/MeetingCPP/videos) : C++会议
   * [ThinMatrix ](https://www.youtube.com/user/ThinMatrix/videos) : 开发者在java中使用OpenGL制作的一个3D游戏的博客和指南
@@ -391,7 +391,7 @@
   * [CodeChef ](http://codechef.com/)
   * [PKU ACM ICPC Practice problems ](http://poj.org/problemlist)
   * [Archived Problems - Project Euler ](https://projecteuler.net/archives)
-  * [Google Code Jam Practice and ](https://code.google.com/codejam/contests.html) : 过去问题的比赛实践
+  * [Google Code Jam Practice and ](https://code.google.com/codejam/contests.html) : 之前比赛的练习题
   * [Sphere Online Judge (SPOJ) ](http://www.spoj.com/)
   * [Art of Problem Solving](https://artofproblemsolving.com/)
   * [Riddles.io AI Games](https://www.riddles.io) : 与机器人比赛并获取积分
@@ -400,9 +400,9 @@
 
 <h1 id='computer-books'>计算机书籍</h1>
 
-  * [IT eBooks - Free Download - Big Library  ](http://it-ebooks.info/) : 用来下载电子书的站点没有广告并且能立即下载
+  * [IT eBooks - Free Download - Big Library  ](http://it-ebooks.info/) : 无广告且能立即下载的电子书下载网站
   * [github.com/vhf/free-programming-books ](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) : 超过500本免费电子书几乎包括你能想到的所有语言
-  * [Computer Science Books Online ](http://www.sciencebooksonline.info/computer-science.html) : 大约150本计算机方面的点子书
+  * [Computer Science Books Online ](http://www.sciencebooksonline.info/computer-science.html) : 大约150本计算机方面的电子书
   * [Best books for GATE CSE ](http://gatecse.in/wiki/Best_books_for_CSE#Best_Books_for_GATE_in_CSE)
   * [https://cses.fi/book.html](https://cses.fi/book.html)
   * [Library Genesis](gen.lib.rus.ec) : 几乎包含你能想到的任何电子书，包含大量的CS文档和手册
