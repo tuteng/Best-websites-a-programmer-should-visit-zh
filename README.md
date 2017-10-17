@@ -108,7 +108,7 @@
    * [Paqmind](http://paqmind.com) :学习编程的指南和挑战
    * [treehouse](https://teamtreehouse.com) :快速容易和经济实惠的方法来提升技巧
 
-<h1 id='cryptocurrency'></h1>
+<h1 id='cryptocurrency'>加密货币</h1>
 
    * [加密货币爱好者必知内容](http://www.ofnumbers.com/2017/09/21/eight-things-cryptocurrency-enthusiasts-probably-wont-tell-you/) :加密货币爱好者必须要知道的8项内容
    * [区块链基础](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) :区块链介绍
