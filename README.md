@@ -146,7 +146,7 @@
    * [Angular 1 风格指南](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : 官方认可的风格指南，作者John Pappa
    * [CS 106B 编码风格指南](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : 代码臃肿者必看  
    * [调试问题](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html) :检查如何调试程序
-   * [CS课程目录(许多在线讲座)](https://github.com/prakhar1989/awesome-courses) : 另一个在想CS课程
+   * [CS课程目录(许多在线讲座)](https://github.com/prakhar1989/awesome-courses) : 另一个在线CS课程
    * [在线CS课程目录](https://github.com/open-source-society/computer-science) : 免费的在线CS课程
    * [优秀的 C 编码习惯 • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/)  
    * [google C++ 编码风格](https://google.github.io/styleguide/cppguide.html)  
