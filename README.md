@@ -227,7 +227,7 @@
   * [svozniuk/java-interviews](https://github.com/svozniuk/java-interviews) : Java面试题
   * [25个最难的HR问题 ](http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html)
   * [面试10大算法](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
-  * [unix／Linux笔记](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
+  * [Unix／Linux笔记](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
   * [为求职者和雇主提供的建议](https://www.reddit.com/r/india/comments/1clgdj/unsolicited_advice_for_job_seekers_and_employers/)
   * [通过动画可视化数据结构和算法](http://visualgo.net/)
   * [We Help Coders Get Hired](http://www.hiredintech.com/app) : 提供系统设计，面试策略，软件技能等的web站点
@@ -278,7 +278,7 @@
   * [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : CS课程大汇总
   * [Udacity](http://udacity.com/)
   * [UCBerkeley](https://www.youtube.com/user/UCBerkeley/videos)
-  * [https://github.com/prakhar1989/awesome-courses/blob/master/README.md ](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : 网上CS课程的收集
+  * [网上CS课程的收集](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
 
 <h1 id='sites-related-to-your-preferred-programming-language-for-me-java'>与你偏爱的编程语言相关的网站(对我来说是Java)</h1>
 
@@ -382,7 +382,6 @@
   * [深入字节码](https://www.wikiwand.com/en/Java_bytecode)
   * [每种计算机科学专业应该知道什么 ](http://matt.might.net/articles/what-cs-majors-should-know/)
   * [自学计算机科学](https://teachyourselfcs.com/)
-  * [数据机构图](https://fkcd.ca/b7d.svg)
   * [关于图论的一个介绍](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
   * [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
   * [一个对程序员友好的语言](http://moonscript.org/)
