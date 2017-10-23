@@ -610,8 +610,8 @@
 
   * [Open Hatch](https://openhatch.org) : OpenHatch是一个非营利组织，致力于将潜在的免费软件贡献者与社区，工具和教育相匹配 
   * [Source Forge](sourceforge.net) : SourceForge主持着近28万个项目（最后一次）。它每天提供超过200万次下载，并包含各种类别的应用程序和工具
-  * [Google Code](code.google.com/projecthosting) : Google使用Subversion或Mercurial版本控制系统为开源项目提供免费托管服务。它提供2 GB的存储，集成的代码审查工具，维基和问题跟踪。 Google Code网站还提供了Google许多公开API和其他开发人员工具的链接。
-  * [Launch Pad](launchpad.net) :由Canonical维护，LaunchPad特别针对在Ubuntu上运行的项目。它为超过21,000个使用Bazaar版本控制系统的项目提供托管
+  * [Google Code](code.google.com/projecthosting) : Google使用Subversion或Mercurial版本控制系统为开源项目提供免费托管服务。它提供2GB的存储，集成的代码审查工具，维基和问题跟踪。 Google Code网站还提供了Google许多公开API和其他开发人员工具的链接。
+  * [Launch Pad](launchpad.net) :由Canonical、LaunchPad维护，特别针对在Ubuntu上运行的项目。它为超过21,000个使用Bazaar版本控制系统的项目提供托管
   * [Google Open Source](opensource.google.com) : Google开源
   * [Red Hat Developer](developer.redhat.com) : 全球领先的开源解决方案提供商
   * [Open Source](opensource.com) : 开源
@@ -621,7 +621,7 @@
   * [Eclipse Lab](http://www.eclipse.org/org/foundation/eclipselabs/faq.php) : Eclipse Labs是一个基于Eclipse平台构建技术的开源项目社区。它提供开源项目通常需要的基础架构服务，如代码存储库，错误跟踪，项目网站/ wiki。 Eclipse Labs由Google Code Project Hosting托管，所以对于已经使用Google Code Project Hosting的开发人员来说，这将非常熟悉
   * [Bit Bucket](https://bitbucket.org) : 像GitHub一样，BitBucket也承载了公共和私人项目。在这个网站上，少于五个用户的开源项目和私人项目是免费的。它拥有超过48,000个存储库，其中许多存储库可在现场进行搜索site.
   * [Media Wiki](https://www.mediawiki.org/wiki/MediaWiki) : MediaWiki是一款用PHP编写的免费软件开源维基软件包，最初用于维基百科。现在也被非营利维基媒体基金会和许多其他维基的其他项目使用，包括这个网站，MediaWiki的主页
-  * [Code Curiosity](https://codecuriosity.org) : CodeCuriosity是一个鼓励开放源代码的平台。每个人都为自己的努力而获得回报，无论他们多么大或小
+  * [Code Curiosity](https://codecuriosity.org) : CodeCuriosity是一个鼓励开放源代码的平台，无论项目是大还是小，每个人都为自己的努力而获得回报
   * [Code Triage](https://www.codetriage.com) : 帮助完成您最喜欢的开源项目，并在开发过程中成为更好的开发人员
   * [Issue Hub](http://issuehub.io) : 贡献于开源。搜索问题标签为您找到正确的项目
   * [Up for Grabs](http://up-for-grabs.net) : 这是一个专门为新贡献者策划的项目的列表。这些是开始使用项目的好方法，或是帮助分享开源项目的负担。
@@ -630,7 +630,7 @@
  
 <h1 id='Special Thanks'>特别感谢</h1>
 
-  * 如果您发现这有用和/或考虑作出贡献，请考虑一个github明星。
+  * 如果您发现这很有用或考虑也参与并作出贡献，请考虑一个github Star。
   * 特别感谢Ashish Padalkar（@ ashish2199）为初始版本原始帖子贡献了大量的数据和结构。
 
 
