@@ -128,7 +128,7 @@
    * [Dieter Rams : 好的产品设计的10个原则](https://stephenhaunts.com/2013/12/11/dieter-rams-10-principles-of-good-product-design/)
    * [设计模式](https://sourcemaking.com/design_patterns) : 用例子详细说明设计模式
    * [如何成为一个程序员或谷歌搜索的艺术](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/)
-   * [js项目指南](https://github.com/wearehive/project-guidelines) :javascript项目最佳实践集合
+   * [js项目指南](https://github.com/wearehive/project-guidelines):javascript项目最佳实践集合
    * [Learn to Code With Me](https://learntocodewith.me) : 一个资源非常全的网站，旨在为科技界的开发人员提供资源
    * [一个程序员一生应遵循的原则](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer)
    * [编程规范](https://webpro.github.io/programming-principles/) :程序设计原理与模式分类综述
@@ -298,7 +298,7 @@
   * [Java-source](http://www.java-source.net) : Java开源软件
   * [Java Visualizer ](http://www.cs.princeton.edu/~cos126/java_visualize/) : 帮助将引用，值，变量可视化
   * [JournalDev - Java, Java EE, Android, Web Development Tutorials](http://www.journaldev.com/)  
-  * [Learning Java ](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : 一个免费的在线学习Java语言的教材
+  * [Learning Java ](http://chimera.labs.oreilly.com/books/1234000001805/index.html):一个免费的在线学习Java语言的教材
   * [Netbeans的键盘快捷键](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : 键盘快捷键能够使你在工作时提高生产力
   * [搜索开源的Java API ](http://www.docjar.com/) : 浏览Java库的源代码，并且学习如何实现
   * [C++编程语言](http://www.stroustrup.com/C++.html) : C++编程语言
