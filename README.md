@@ -128,7 +128,7 @@
    * [Dieter Rams : 好的产品设计的10个原则](https://stephenhaunts.com/2013/12/11/dieter-rams-10-principles-of-good-product-design/)
    * [设计模式](https://sourcemaking.com/design_patterns) : 用例子详细说明设计模式
    * [如何成为一个程序员或谷歌搜索的艺术](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/)
-   * [js项目指南](https://github.com/wearehive/project-guidelines) :javascript项目最佳时间集合
+   * [js项目指南](https://github.com/wearehive/project-guidelines) :javascript项目最佳实践集合
    * [Learn to Code With Me](https://learntocodewith.me) : 一个资源非常全的网站，旨在为科技界的开发人员提供资源
    * [一个程序员一生应遵循的原则](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer)
    * [编程规范](https://webpro.github.io/programming-principles/) :程序设计原理与模式分类综述
