@@ -492,7 +492,7 @@
   * [Codingame](https://www.codingame.com/start) : 通过游戏和挑战学习编码！
   * [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : 过去比赛的练习题
   * [HackerEarth - Programming challenges and Developer jobs](https://www.hackerearth.com)
-  * [HackerRank](https://www.hackerrank.com) : 实践编码。竞争。找工作
+  * [HackerRank](https://www.hackerrank.com) : 实践编码、竞争、找工作
   * [PKU ACM ICPC Practice problems](http://poj.org/problemlist) : ACMACPC 在线审核
   * [Sphere Online Judge (SPOJ)](http://www.spoj.com) : 成为一名真正的编程硕士学习如何编写和构建高效的算法
   * [Topcoder](https://www.topcoder.com) : 通过更多的包为代码提供更快的速度
