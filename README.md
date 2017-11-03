@@ -297,8 +297,8 @@
   * [Java堆](http://www.javaoffheap.com) 
   * [Java-source](http://www.java-source.net) : Java开源软件
   * [Java Visualizer ](http://www.cs.princeton.edu/~cos126/java_visualize/) : 帮助将引用，值，变量可视化
-  * [JournalDev - Java, Java EE, Android, Web Development Tutorials](http://www.journaldev.com/)  
-  * [Learning Java ](http://chimera.labs.oreilly.com/books/1234000001805/index.html):一个免费的在线学习Java语言的教材
+  * [JournalDev - Java, Java EE, Android, Web Development Tutorials](http://www.journaldev.com/)
+  * [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html):一个免费的在线学习Java语言的教材
   * [Netbeans的键盘快捷键](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : 键盘快捷键能够使你在工作时提高生产力
   * [搜索开源的Java API ](http://www.docjar.com/) : 浏览Java库的源代码，并且学习如何实现
   * [C++编程语言](http://www.stroustrup.com/C++.html) : C++编程语言
