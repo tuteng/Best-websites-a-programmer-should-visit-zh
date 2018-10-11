@@ -240,6 +240,7 @@
   * [编程语言概念 课堂笔记 ](http://www.cmi.ac.in/~madhavan/courses/pl2006/lecturenotes/lecture-notes/lecture-notes.html) :  面向对象概念和编程语言概念
   * [系统设计面试](https://github.com/checkcheckzz/system-design-interview)
   * [一个站点提供技术面试题，逻辑题或者你想的其他内容 ](http://www.techinterview.org/)
+  * [前端常见面试题汇总](https://www.geekjc.com/ebook/detail/5ba5bcae7143880b09cb4d54/1537588096871)
 
 <h1 id='documentaries'>纪录片</h1>
 
@@ -279,6 +280,7 @@
   * [Udacity](http://udacity.com/)
   * [UCBerkeley](https://www.youtube.com/user/UCBerkeley/videos)
   * [网上CS课程的收集](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
+  * [极客教程](https://www.geekjc.com)
 
 <h1 id='sites-related-to-your-preferred-programming-language-for-me-java'>与你偏爱的编程语言相关的网站(对我来说是Java)</h1>
 
