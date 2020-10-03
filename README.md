@@ -176,6 +176,7 @@
 * [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) : 针对开发者的Unix和Linux命令
 
 <h2 id='interview-preparation'>面试准备</h2>
+// cracking the coding interview by gayle lackmann
 
   * [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/) : 这是一个非常大的面试问题列表是我在为4大面试时用到的，我认为对大家也是有用的
   * [10个最频繁的SQL查询面试问题](http://java67.blogspot.in/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
