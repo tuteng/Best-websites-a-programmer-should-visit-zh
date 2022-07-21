@@ -470,6 +470,7 @@
   * [Algorithm Using Dynamic Programming and A](http://thume.ca/2017/06/17/tree-diffing/) : 使用动态编程和A*设计树差分算法
   * [Learn Python](https://www.learnpython.org) : 免费的交互式Python教程
   * [C++17](https://www.viva64.com/en/b/0533/) : C ++指南17
+  * [Scaler 编程教程](https://www.scaler.com/topics/)
  
 <h1 id='watch-others-code'>欣赏他人的代码</h1>
 
