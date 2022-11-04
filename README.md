@@ -452,6 +452,7 @@
   * [OS Course Notes](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) : Galvin's书的章节笔记
   * [从新手到专家-编程、web开发、DevOps新闻，教程和工具](https://dzone.com)
   * [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/) : 结构化查询语言，一个非常好的SQL记录表
+  * [SQL Tutorial](https://www.scaler.com/topics/sql/) : 从初级到高级详细学习sql
   * [Subtle | Poor Man's CI](https://www.subtle.press/course/poor-mans-ci) : 了解连续集成平台如何工作，通过使用Node.js构建您自己的git之一
   * [TCP/IP图解](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
   * [The Bash Guide](http://guide.bash.academy) : 学习Bash Shell的优秀教程
