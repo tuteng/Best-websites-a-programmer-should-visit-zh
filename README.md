@@ -435,6 +435,7 @@
   * [Data Structures and Algorithms by John Morris](http://oopweb.com/Algorithms/Documents/PLDS210/VolumeFrames.html) : 代码和其分析的另一个好的来源
   * [深入学习C语言](https://www.slideshare.net/olvemaudal/deep-c) : 关于C语言的一个很好的演示
   * [设计模式：可重用面向对象的软件的基础](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) : aka the "Gang Of Four" book, or GOF
+  * [Data Structures and Algorithms Tutorial](https://www.scaler.com/topics/data-structures/) : 详细学习数据结构和算法
   * [Dynamic programming - PrismoSkills](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp) : 学习如何解决动态规划问题
   * [Git从入门到精通](https://maryrosecook.com/blog/post/git-from-the-inside-out)
   * [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
