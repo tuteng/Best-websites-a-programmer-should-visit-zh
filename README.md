@@ -120,6 +120,8 @@
    * [karan/Projects](https://github.com/karan/Projects) : 针对新手的小项目的汇总
    * [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : 怎样选择，从哪里开始
    * [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : 一个能够用任何编程语言解决的巨型项目清单 
+   * [Explore Kits](https://kandi.openweaver.com/explore) : Develop, implement, customize Projects, Custom Functions and Applications 
+   
 
 <h1 id='general-coding-advice'>通用编码建议</h1>
 
