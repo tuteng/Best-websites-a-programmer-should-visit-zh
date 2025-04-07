@@ -1,0 +1,95 @@
+import pygame
+import random
+
+# 初始化 Pygame
+pygame.init()
+
+# 設置屏幕大小
+screen_width = 400
+screen_height = 500
+screen = pygame.display.set_mode((screen_width, screen_height))
+
+# 定義顏色
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+GREEN = (0, 255, 0)
+RED = (255, 0, 0)
+
+# 定義方塊的形狀
+shapes = [
+    [[1, 1, 1, 1]],
+
+    [[1, 1],
+     [1, 1]],
+
+    [[1, 0],
+     [1, 0],
+     [1, 1]],
+
+    [[0, 1],
+     [0, 1],
+     [1, 1]],
+
+    [[0, 1, 0],
+     [1, 1, 1]],
+
+    [[1, 1, 0],
+     [0, 1, 1]],
+
+    [[0, 1, 1],
+     [1, 1, 0]]
+]
+
+# 定義方塊類
+class Block:
+    def __init__(self, shape):
+        self.shape = shape
+        self.color = random.choice([GREEN, RED])
+        self.x = screen_width // 2 - len(shape[0]) * 20 // 2
+        self.y = 0
+
+    def draw(self):
+        for y, row in enumerate(self.shape):
+            for x, cell in enumerate(row):
+                if cell:
+                    pygame.draw.rect(screen, self.color, (self.x + x * 20, self.y + y * 20, 20, 20))
+
+    def move_down(self):
+        self.y += 20
+
+    def move_left(self):
+        self.x -= 20
+
+    def move_right(self):
+        self.x += 20
+
+    def rotate(self):
+        self.shape = list(zip(*self.shape[::-1]))
+
+# 初始化方塊
+current_block = Block(random.choice(shapes))
+
+# 遊戲主循環
+running = True
+clock = pygame.time.Clock()
+while running:
+    screen.fill(BLACK)
+
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+        elif event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_LEFT:
+                current_block.move_left()
+            elif event.key == pygame.K_RIGHT:
+                current_block.move_right()
+            elif event.key == pygame.K_DOWN:
+                current_block.move_down()
+            elif event.key == pygame.K_UP:
+                current_block.rotate()
+
+    current_block.draw()
+    pygame.display.flip()
+    clock.tick(10)
+
+pygame.quit()
