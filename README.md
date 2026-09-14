@@ -163,6 +163,7 @@
 * [CodePen](https://codepen.io) : 基于浏览器共享前端代码的地方
 * [Devicons](http://vorillaz.github.io/devicons/#/main) : 免费图标汇总
 * [regex101](https://regex101.com) : 在线正则表达式测试和调试，国内也有不少
+* [RegexTester.dev](https://regextester.dev) : 浏览器内直接跑 PCRE2、RE2、.NET、Python 等 8 种真实引擎（WASM）的正则测试器
 * [regexr](https://regexr.com) : 另一个在线学习、测试正则表达式的工具
 * [Wit AI](https://wit.ai) :帮助开发者灵活的控制应用，适合没有移动端开发经验的用户
 
